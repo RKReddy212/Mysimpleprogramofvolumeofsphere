@@ -1,0 +1,10 @@
+#volume of sphere V = 4/3 π r³
+#area of circle A = π r²
+
+#pi = 3.14
+r = 5
+v=4/3*3.14*(r**3)
+a= 3.14*(5**2)
+
+print (v)
+print (a)
